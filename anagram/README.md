@@ -1,0 +1,1 @@
+Challenge: create a function, is_anagram(str1, str2), that checks if the strings are an anagram.
